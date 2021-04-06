@@ -16,5 +16,5 @@ console.log('isEmpty 2 ', s.isEmpty(), s.size())
 console.log('Pop from Stack ', data)
 
 
-console.log('second pop item ', s.pop())
+console.log(chalk.yellow('second pop item ', s.pop()))
 console.log(chalk.blue('Second pop ', s.isEmpty(), s.size()))
