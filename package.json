@@ -1,0 +1,20 @@
+{
+  "name": "mystack",
+  "version": "1.0.0",
+  "description": "My Stack as a first nodejs module demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "stack",
+    "data-structure"
+  ],
+  "author": "behradz@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
