@@ -1,5 +1,5 @@
 {
-  "name": "mystack",
+  "name": "@behrad/mystack",
   "version": "1.0.0",
   "description": "My Stack as a first nodejs module demonstration",
   "main": "index.js",
